@@ -8,4 +8,5 @@ After the data is loaded, we decided to use the JXMapKit to plot our points on a
 Purpose: An exercise to learn and apply Java programming along with an MVC framework, Swing, threads, and other OOP strategies.
 
 Group project for CMPT 305: Object-Oriented Programming
+
 Members: Winston Kouch, Stephen Adeniji, Khoa Huynh, Nigel John
