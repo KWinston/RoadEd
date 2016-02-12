@@ -9,4 +9,4 @@ Purpose: An exercise to learn and apply Java programming along with an MVC frame
 
 Group project for CMPT 305: Object-Oriented Programming
 
-Members: Winston Kouch, Stephen Adeniji, Khoa Huynh, Nigel John
+Members: Winston Kouch, Stephen Adeniji, Khoa Huynh, Nigel (Cherian) John
